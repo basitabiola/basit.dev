@@ -260,7 +260,7 @@
 /* my name */
 .my-name {
     font-family: monospace;
-    font-size: 8vw;
+    font-size: 7.5vw;
     text-transform: uppercase;
     display: block;
     background: none;
@@ -286,7 +286,7 @@
 .typing {
     display: flex;
     font-family: monospace;
-    font-size: 8vw;
+    font-size: 7.5vw;
     overflow: hidden;
     text-wrap: nowrap;
     text-align: center;
@@ -299,13 +299,13 @@
 @keyframes typing {
     from {
         width: 0ch;
-        font-size: 8vw;
+        font-size: 7.5vw;
         text-align: center;
     }
 
     to {
         width: 19ch;
-        font-size: 8vw;
+        font-size: 7.5vw;
         text-align: center;
     }
 }

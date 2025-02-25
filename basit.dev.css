@@ -1274,7 +1274,7 @@
     text-wrap: nowrap;
     text-align: center;
     margin-left: 1%;
-    border-right: 6px solid white;
+    border-right: 4px solid white;
     width: 19ch;
     animation: typing 3s 3s steps(19) 1;
     background-color: none

@@ -290,9 +290,9 @@
     overflow: hidden;
     text-wrap: nowrap;
     text-align: center;
-    padding-right: 1%;
+    padding-right: 2%;
     margin-left: 3%;
-    border-right: 5px solid white;
+    border-right: 3.5px solid white;
     width: 19ch;
     animation: typing 3s 3s steps(19) 1;
 }
